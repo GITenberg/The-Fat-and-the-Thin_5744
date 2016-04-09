@@ -1,0 +1,76 @@
+_repo: The-Fat-and-the-Thin_5744
+_version: 0.0.1
+alternative_title: Ventre de Paris. English
+contributor:
+  translator:
+    agent_name: Vizetelly, Ernest Alfred
+    alias: Vizetelly, E. A. (Ernest Alfred)
+    birthdate: 1853
+    deathdate: 1922
+    gutenberg_agent_id: '3192'
+    url: http://www.gutenberg.org/2009/agents/3192
+creator:
+  author:
+    agent_name: Zola, Émile
+    alias: Zola, Émile Édouard Charles Antoine
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Émile_Zola
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
+description: "Le Ventre de Paris [lə vɑ̃tʁ də paʁi] (1873) is the third novel in Émile\
+  \ Zola's twenty-volume series Les Rougon-Macquart. It is set in and around Les Halles,\
+  \ the enormous, busy central market of 19th Century Paris. Les Halles, rebuilt in\
+  \ cast iron and glass during the Second Empire was a landmark of modernity in the\
+  \ city, the wholesale and retail center of a thriving food industry. Le Ventre de\
+  \ Paris (translated into English under many variant titles but literally meaning\
+  \ The Belly of Paris) is Zola's first novel entirely on the working class.\nThe\
+  \ protagonist is Florent, an escaped political prisoner mistakenly arrested after\
+  \ the French coup of 1851. He returns to his step-brother Quenu, a charcutier and\
+  \ his wife Lisa Quenu (formerly Macquart), with whom he finds refuge. They get him\
+  \ a job in the market as a fish inspector. After getting mixed up in an ineffectual\
+  \ socialist plot against the Empire, Florent is arrested and deported again.\nAlthough\
+  \ Zola had yet to hone his mastery of working-class speech and idioms displayed\
+  \ to such good effect in L'Assommoir, the novel conveys a powerful atmosphere of\
+  \ life in the great market halls and of working class suffering. There are a number\
+  \ of vivid descriptive passages, the most famous of which, his description of the\
+  \ olfactory sensations experienced upon entering a cheese shop, has become known\
+  \ as the \"Cheese Symphony\" due to its ingenious orchestral metaphors. Throughout\
+  \ the book, the painter Claude Lantier, a relative of the Macquarts and later the\
+  \ protagonist of L'Œuvre (1886) - shows up to provide a semi-authorial commentary,\
+  \ playing the role of chorus. It is an interesting and often powerful work, though\
+  \ not usually considered as being on a par with the novelist's achievements later\
+  \ in the Rougon-Macquart cycle.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5744'
+  wikidata: Q338034
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Paris (France) -- Fiction'
+- !lcsh 'Historical fiction'
+- GITenberg
+title: The Fat and the Thin
+url: http://www.gutenberg.org/ebooks/5744
+wikipedia:
+- https://fr.wikipedia.org/wiki/Le_Ventre_de_Paris
+- https://pl.wikipedia.org/wiki/Brzuch_Pary%C5%BCa
+- https://bs.wikipedia.org/wiki/Trbuh_Pariza
+- https://cs.wikipedia.org/wiki/B%C5%99icho_Pa%C5%99%C3%AD%C5%BEe
+- https://fa.wikipedia.org/wiki/%D8%B4%DA%A9%D9%85_%D9%BE%D8%A7%D8%B1%DB%8C%D8%B3
+- https://de.wikipedia.org/wiki/Der_Bauch_von_Paris
+- https://es.wikipedia.org/wiki/El_vientre_de_Par%C3%ADs
+- https://eu.wikipedia.org/wiki/Parisen_sabela
+- https://en.wikipedia.org/wiki/Le_Ventre_de_Paris
+- https://it.wikipedia.org/wiki/Il_ventre_di_Parigi
+- https://la.wikipedia.org/wiki/Le_Ventre_de_Paris
+- https://ru.wikipedia.org/wiki/%D0%A7%D1%80%D0%B5%D0%B2%D0%BE_%D0%9F%D0%B0%D1%80%D0%B8%D0%B6%D0%B0
+- https://sr.wikipedia.org/wiki/%D0%A2%D1%80%D0%B1%D1%83%D1%85_%D0%9F%D0%B0%D1%80%D0%B8%D0%B7%D0%B0
+- https://fr.wikisource.org/wiki/Le_Ventre_de_Paris
