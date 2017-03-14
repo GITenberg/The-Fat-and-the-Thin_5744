@@ -1,5 +1,5 @@
 _repo: The-Fat-and-the-Thin_5744
-_version: 0.1.1
+_version: 0.2.0
 alternative_title: Ventre de Paris. English
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     deathdate: 1922
     gutenberg_agent_id: '3192'
     url: http://www.gutenberg.org/2009/agents/3192
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Zola, Émile
@@ -43,6 +46,8 @@ description: "Le Ventre de Paris [lə vɑ̃tʁ də paʁi] (1873) is the third no
   \ playing the role of chorus. It is an interesting and often powerful work, though\
   \ not usually considered as being on a par with the novelist's achievements later\
   \ in the Rougon-Macquart cycle.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5744#The-Fat-and-the-Thin
 gutenberg_issued: '2006-04-22'
 gutenberg_type: Text
 identifiers:
